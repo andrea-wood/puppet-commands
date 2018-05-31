@@ -1,8 +1,7 @@
 # puppet-commands
 
 # Create user with password
-openssl passwd -1  
-# Enter your password here 
+openssl passwd -1  <br />
 Password: <br />
 Verifying - Password: <br />
 $1$HTumvYUGYUGwsxQxCp3F/nGc4DCYM<br />
